@@ -1,2 +1,11 @@
-# Student-Portfolio
-A basic personal portfolio website that shows your details, skills, and projects.
+# Student Portfolio
+
+This is my first GitHub repository.
+
+## About Me
+I am a first-year engineering student learning web development.
+
+## Skills
+- HTML
+- CSS
+- JavaScript (basic)
