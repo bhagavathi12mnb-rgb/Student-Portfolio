@@ -18,12 +18,3 @@
 
 </body>
 </html>
-body {
-    font-family: Arial;
-    background-color: #f0f0f0;
-    text-align: center;
-}
-
-h1 {
-    color: blue;
-}
