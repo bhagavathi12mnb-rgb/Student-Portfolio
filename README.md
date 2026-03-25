@@ -7,7 +7,7 @@
 
 <h1>Hello, I'm a First-Year Engineering Student</h1>
 <p>Welcome to my portfolio!</p>
-<P>IAM BHAGAVATHI N</P>
+<P>Iam Bhagavathi</P>
 
 <h2>Skills</h2>
 <ul>
